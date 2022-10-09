@@ -18,3 +18,7 @@ Try to write a test adding a product from any other category besides dresses to 
 
 ### Exercise 2:
 Try to write a test continuing to the checkout and completing the checkout flow.
+
+### Additional exercise:
+- Try to import browser compatibility.
+- Try to add screenshots in the report file.
