@@ -12,8 +12,8 @@ public class HomePageSteps extends AbstractPage {
         new HomePage().navigateToHomePage("http://automationpractice.com/index.php");
     }
 
-    @When("I click on category dresses")
-    public void iClickOnCategory(){
-        new HomePage().clickOnCategory();
+    @When("I click on category {}")
+    public void iClickOnCategory(String categoryType){
+        new HomePage().clickOnCategory(categoryType);
     }
 }
