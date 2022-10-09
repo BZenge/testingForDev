@@ -29,7 +29,7 @@
   "keyToString": {
     "RunOnceActivity.OpenProjectViewOnStart": "true",
     "RunOnceActivity.ShowReadmeOnStart": "true",
-    "last_opened_file_path": "/Users/babettezengers/Documents/Refleqt/Powerpoints/Grashopper okt 2022 - Leuven/testingForDevelopers/TestingForDevelopers/src/test/java/be/refleqt/testing/pages",
+    "last_opened_file_path": "/Users/babettezengers/Documents/Refleqt/Powerpoints/Grashopper okt 2022 - Leuven/testingForDevelopers/TestingForDevelopers/src/test/resources/features",
     "project.structure.last.edited": "Project",
     "project.structure.proportion": "0.0",
     "project.structure.side.proportion": "0.0"
@@ -37,11 +37,11 @@
 }]]></component>
   <component name="RecentsManager">
     <key name="CopyFile.RECENT_KEYS">
+      <recent name="$PROJECT_DIR$/src/test/resources/features" />
       <recent name="$PROJECT_DIR$/src/test/java/be/refleqt/testing/pages" />
       <recent name="$PROJECT_DIR$/src/test/java/be/refleqt/testing/steps" />
       <recent name="$PROJECT_DIR$/src/test/java/be/refleqt/testing/support" />
       <recent name="$PROJECT_DIR$/TestingForDevelopers/src/test" />
-      <recent name="$PROJECT_DIR$/TestingForDevelopers/src/test/java/be/refleqt/testing/support" />
     </key>
     <key name="MoveFile.RECENT_KEYS">
       <recent name="$PROJECT_DIR$" />
