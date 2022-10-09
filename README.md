@@ -12,3 +12,9 @@ you have to execute the "mvn clean install -DskipTests" command to get install a
 ### How to run
 To run your test, you have to create a new configuration file with settings "-ea -Dcucumber.filter.tags="@wip"
 As soon as you have the configuration file successfully installed you can run your test which you tagged with @wip.
+
+### Exercise 1:
+Try to write a test adding a product from any other category besides dresses to your cart.
+
+### Exercise 2:
+Try to write a test continuing to the checkout and completing the checkout flow.
